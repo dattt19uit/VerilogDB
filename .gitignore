@@ -218,4 +218,5 @@ __marimo__/
 .streamlit/secrets.toml
 
 verilog-db
+verilog-db-parsing
 .claude
