@@ -1,0 +1,1 @@
+The module implements a full adder using two half subtractors combined with NOT and OR gates to compute the sum and carry outputs from three binary inputs.

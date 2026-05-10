@@ -1,0 +1,1 @@
+The module conditionally inverts the 32-bit b input based on c_in, then cascades 32 one-bit full adders to compute a 32-bit sum and final carry-out.

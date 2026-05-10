@@ -1,0 +1,1 @@
+This Verilog module implements a full adder by summing three binary inputs— a_in, b_in, and c_in—then outputting the least significant bit as sum_out and the carry bit as carry_out.

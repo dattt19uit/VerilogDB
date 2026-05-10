@@ -1,0 +1,1 @@
+This module implements a 4-bit full adder by instantiating four independent one-bit full adder modules that concurrently compute the sum and carry outputs for each corresponding input bit.

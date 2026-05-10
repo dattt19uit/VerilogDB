@@ -1,0 +1,1 @@
+This module implements a full adder by connecting three half adders to compute the sum and carry outputs from three binary input bits.

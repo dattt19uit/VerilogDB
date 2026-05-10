@@ -1,0 +1,1 @@
+This module implements a full adder's sum output by computing the bitwise XOR of its three one-bit inputs.

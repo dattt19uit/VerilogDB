@@ -1,0 +1,1 @@
+This module implements a full adder by computing the binary sum (y) using XOR on a, b, and carryin, and generating carryout via majority logic on the same inputs.

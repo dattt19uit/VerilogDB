@@ -1,0 +1,1 @@
+This module implements a full adder by decoding a 3-bit input into a one-hot 8-bit signal and generating the sum and carry outputs using logical OR operations on decoder outputs that match the full adder's truth table.

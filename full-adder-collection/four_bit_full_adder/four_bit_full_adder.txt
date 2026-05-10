@@ -1,0 +1,1 @@
+This module implements a 4-bit ripple-carry full adder by cascading four one-bit full adders to add two 4-bit numbers and an initial carry, producing a summed 4-bit result and a final carry-out.

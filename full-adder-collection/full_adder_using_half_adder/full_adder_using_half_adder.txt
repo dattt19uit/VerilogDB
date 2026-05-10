@@ -1,0 +1,1 @@
+This module implements a full adder by connecting two half adders to sum two binary inputs and a carry-in, then combining intermediate carries with an OR gate to generate the final sum and carry-out.

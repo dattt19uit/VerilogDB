@@ -1,0 +1,1 @@
+This Verilog module implements a structural full adder that computes the sum as the XOR of inputs a, b, and c, and the carry as the OR of the three pairwise AND results of a, b, and c.

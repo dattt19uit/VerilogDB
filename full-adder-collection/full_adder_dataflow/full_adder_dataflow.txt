@@ -1,0 +1,1 @@
+This module implements a full adder in dataflow style, computing the sum using XOR operations on inputs a, b, and c_in, and determining the carry-out by combining AND and OR operations on those inputs.

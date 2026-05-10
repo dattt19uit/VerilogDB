@@ -1,0 +1,1 @@
+This module implements a full adder by using two half adders and an OR gate to compute the sum and carry outputs from three input bits.

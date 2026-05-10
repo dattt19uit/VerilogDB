@@ -1,0 +1,1 @@
+This module implements a full adder that computes a sum bit and carry-out by evaluating three single-bit inputs through a behavioral if‑else structure covering all eight possible input combinations.

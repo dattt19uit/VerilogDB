@@ -1,0 +1,1 @@
+This module decodes a 3-bit input with an enable signal into eight outputs and then uses OR gates on selected decoded outputs to generate the full adder’s sum and carry signals.

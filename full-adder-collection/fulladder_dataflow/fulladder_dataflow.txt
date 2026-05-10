@@ -1,0 +1,1 @@
+This Verilog module implements a full adder in dataflow style by computing the sum as the XOR of three input bits and the carry output using pairwise AND and OR operations.

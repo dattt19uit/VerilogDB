@@ -1,0 +1,1 @@
+This module implements a full adder that computes a three-input sum and carry out by cascading two half adders and then OR-ing their carry outputs.

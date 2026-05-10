@@ -1,0 +1,1 @@
+This module implements a full adder that calculates the sum as the XOR of A, B, and Cin, and determines the carry using combinations of AND and OR operations on these inputs.

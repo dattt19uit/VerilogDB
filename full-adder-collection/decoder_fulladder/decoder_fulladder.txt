@@ -1,0 +1,1 @@
+This module implements a full adder by decoding input a into enable signals for two decoders of inputs b and c and OR-ing selected outputs to yield the sum and carry.

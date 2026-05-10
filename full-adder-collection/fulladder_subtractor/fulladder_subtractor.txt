@@ -1,0 +1,1 @@
+This module functions as a combined full adder/subtractor, calculating sum and carry when ctrl is 0, and difference and borrow when ctrl is 1.

@@ -1,0 +1,1 @@
+This module implements a full adder, calculating the sum as the XOR of inputs a, b, and c, and producing the carry-out by ORing the outputs of three AND operations on input pairs.

@@ -1,0 +1,1 @@
+This Verilog module implements a full adder that computes the sum of three binary inputs (X, Y, and Ci) using XOR logic for the sum and AND-OR logic for the carry-out.

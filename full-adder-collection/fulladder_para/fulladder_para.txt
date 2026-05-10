@@ -1,0 +1,1 @@
+This Verilog module implements a parameterized parallel full adder that instantiates multiple fulladder_element units to perform bit-wise addition with carry propagation for operands of configurable width.

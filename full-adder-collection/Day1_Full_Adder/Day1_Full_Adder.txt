@@ -1,0 +1,1 @@
+The module performs 4‐bit addition by summing two 4-bit inputs and outputs the concatenated carry-out and sum bits as its final result.

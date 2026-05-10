@@ -1,0 +1,1 @@
+The module implements a partial full adder computing propagate (pi) as the XOR of ai and bi, sum (si) as the XOR of pi and ci, and generate (gi) as the AND of ai and bi.

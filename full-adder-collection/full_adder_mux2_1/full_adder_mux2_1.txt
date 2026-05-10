@@ -1,0 +1,1 @@
+This module implements a full adder using 2-to-1 multiplexers to compute the sum via triple-input XOR and the carry via a multiplexed combination of a, b, and c_in.

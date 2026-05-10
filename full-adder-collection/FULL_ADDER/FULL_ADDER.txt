@@ -1,0 +1,1 @@
+This Verilog module implements a combinational full-adder that resets its outputs to zero when rst is high and otherwise computes the sum via bitwise XOR and the carry-out via AND-OR logic for inputs a, b, and cin.

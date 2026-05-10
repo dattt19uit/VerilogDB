@@ -1,0 +1,1 @@
+This module implements a one-bit full adder, producing a sum and carry output by XORing the three input bits and ORing the intermediate AND results.

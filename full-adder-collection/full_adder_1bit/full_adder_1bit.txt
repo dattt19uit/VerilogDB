@@ -1,0 +1,1 @@
+This module computes the 1-bit full adder sum by performing an XOR operation on inputs a, b, and cin to obtain the binary sum output.

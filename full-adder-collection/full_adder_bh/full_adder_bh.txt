@@ -1,0 +1,1 @@
+The module implements a full adder that calculates the sum and carry outputs by adding three binary inputs (a, b, and Cout) using combinational logic.

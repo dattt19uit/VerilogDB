@@ -1,0 +1,1 @@
+This Verilog module implements a one-bit full adder that calculates the sum by XOR-ing the three input bits and computes the carry-out by ORing their pair-wise ANDs.

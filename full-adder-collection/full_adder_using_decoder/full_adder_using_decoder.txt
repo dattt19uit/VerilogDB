@@ -1,0 +1,1 @@
+This module implements a full adder by using a 3-to-8 decoder to generate minterms from inputs and then ORing selected decoder outputs to obtain the sum and carry.
